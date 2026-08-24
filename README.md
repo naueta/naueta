@@ -3,3 +3,14 @@
 - Aprendendo Python, Lógica de Programação, Git e GitHub
 - Preparando-se para o mercado de tecnologia
 - Contato: natacha.caputi@aluno.cps.sp.gov.br
+
+# Tecnologias-que-estudo
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicon tes/devicon/icons/python/python-original.svg">
+
+# Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natacha-ueta-caputi-9625353a8)
+
+[![Outlook](https://img.shields.io/badge/Outlook-E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:natacha.caputi@aluno.cps.sp.gov.br)
